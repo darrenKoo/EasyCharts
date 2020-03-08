@@ -1,5 +1,5 @@
 
-# EasyCharts插件开源须知
+# Excel插件-EasyCharts 1.0开源须知
 
 
 ***EasyCharts*** 是使用C#语言编写的一款Excel插件，主要用于数据可视化与数据分析，可以跟Excel教程《Excel数据之美》很好地配套使用。由于研究精力有限，本来想开发的众多功能也迟迟没有实现，所以现开源给大家进一步开发与使用，以造福更多Excel用户。如有问题，可以联系EasyCharts开发者微信：EasyCharts。EasyCharts 1.0插件主要实现的功能如下：
